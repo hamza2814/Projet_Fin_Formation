@@ -17,11 +17,11 @@ const Search = ({ CartItem }) => {
             <img src={logo} alt='' />
           </div>
 
-          <div className='search-box f_flex'>
+          {/* <div className='search-box f_flex'>
             <i className='fa fa-search'></i>
             <input type='text' placeholder='Search and hit enter...' />
             <span>All Category</span>
-          </div>
+          </div> */}
 
           <div className='icon f_flex width'>
             <i className='fa fa-user icon-circle'></i>
